@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
   در سال‌های ۱۳۹۳ تا ۱۳۹۵
 baseurl: "/weblog" # the subpath of your site, e.g. /blog/
-url: "https://danialbehzadi.github.io" # the base hostname & protocol for your site
+url: "https://amirhhp.github.io" # the base hostname & protocol for your site
 twitter_username: danialbehzadi
 github_username:  danialbehzadi
 
